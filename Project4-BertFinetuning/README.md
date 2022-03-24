@@ -1,7 +1,7 @@
 # Project 4 - Bert Fine-tuning
 
 ## Part 1 - Sentiment Classification
-Sentiment Classifier implementation by fintuning the Bert-base model
+Sentiment Classifier implementation by finetuning the Bert-base model
 ## Part 2 - Question Answering
 Question Answering by funetuning the Bert-base model using 5 different datasets:
   - SQuAD dataset
